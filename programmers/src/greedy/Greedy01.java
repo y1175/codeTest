@@ -1,5 +1,5 @@
 package greedy;
-
+//https://programmers.co.kr/learn/courses/30/lessons/42862
 public class Greedy01 {
 	  public int solution(int n, int[] lost, int[] reserve) {
 
